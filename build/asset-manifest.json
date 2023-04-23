@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9774632.css",
+    "main.js": "/static/js/main.d5286b9e.js",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/cjonesresume202303.pdf": "/static/media/cjonesresume202303.103f8655d4e140b8eb06.pdf",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/pic-removebg.png": "/static/media/pic-removebg.7d87ed304cd828a1cf6c.png",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/pic.jpg": "/static/media/pic.eacf27b24e7cd6182c18.jpg",
+    "index.html": "/index.html",
+    "main.c9774632.css.map": "/static/css/main.c9774632.css.map",
+    "main.d5286b9e.js.map": "/static/js/main.d5286b9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9774632.css",
+    "static/js/main.d5286b9e.js"
+  ]
+}
